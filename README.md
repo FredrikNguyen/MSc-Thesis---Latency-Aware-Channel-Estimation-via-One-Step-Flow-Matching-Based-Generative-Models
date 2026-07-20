@@ -6,7 +6,7 @@ Master's thesis: Latency-Aware-Channel-Estimation-via-One-Step-Flow-Matching-Bas
 ## Overview
 This repository contains the working material for my Master's thesis on latency-aware channel estimation using one-step generative models for pilot-contaminated wideband MIMO-OFDM systems. The project investigates whether flow-matching-based models can improve end-to-end communication performance under strict inference-cost constraints.
 
-At the moment, this repository is empty but will be updated.  <!--- mainly contains the thesis manuscript, figures, references, experiment summaries, and supporting notes. The code structure is still being organized.-->
+At the moment, this repository only contains the PDF for the master thesis.  <!--- mainly contains the thesis manuscript, figures, references, experiment summaries, and supporting notes. The code structure is still being organized.-->
 
 ## Motivation
 Accurate and low-latency channel estimation is a core requirement in modern wireless receivers. In difficult operating conditions such as low SNR and pilot contamination, classical estimators can become limited. This project explores whether recent generative modeling ideas, especially flow matching and related one-step objectives, can be adapted to produce better channel estimates while still remaining practical for latency-constrained wireless systems.
