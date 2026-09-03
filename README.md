@@ -1,4 +1,4 @@
-# Flow Matching for Low-Latency Channel Estimation in MIMO-OFDM 
+# Flow Matching for efficient Channel Estimation in MIMO-OFDM 
 Master's thesis: Latency-Aware-Channel-Estimation-via-One-Step-Flow-Matching-Based-Generative-Models. PyTorch implementation of flow matching generative models for low-latency channel estimation in pilot-contaminated MIMO-OFDM. 
 
 **Status:** Finished Master's Thesis Project (KTH x Huawei Sweden R&D, 2026)
